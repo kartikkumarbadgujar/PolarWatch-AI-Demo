@@ -66,5 +66,11 @@ trained YOLO/CNN/RNN models — `risk_engine.py`, `alerts.py`, and `app.py`
 don't need to change.
 
 ---
+
+## Prototype of website
+website link :-https://polarwatch-ai-demo.streamlit.app/
+
+---
+
 Team FlashCoderX · Build with Bharat 2.0 · AI-powered Antarctic Wildlife
 Monitoring & Health Database
